@@ -1,0 +1,6 @@
+{
+  "lastVersionCode" : 251,  //最新版本的版本号
+  "minimumRequiredVersion": 250, //如果当前版本号小于此版本，引导强制更新
+  "downloadUrl": "http://xingshijie.github.io/myapk/app-update-debug.apk",
+  "releaseNotes": "应用更新说明，需要弹框"
+}
